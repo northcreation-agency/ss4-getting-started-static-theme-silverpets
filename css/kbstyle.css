@@ -1,0 +1,12 @@
+.page-title-area{
+    background-color: #282828;
+    background-position:  center right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.breadcrumb{
+    margin-top:5px !important;
+}
+#ForgotPassword{
+    width: 100%;
+}
