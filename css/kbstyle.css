@@ -10,3 +10,12 @@
 #ForgotPassword{
     width: 100%;
 }
+.font-size-36{
+    font-size: 36px !important;
+}
+.font-size-40{
+    font-size: 36px !important;
+}
+.hero-heading-font{
+    font-size: 40px !important; line-height: 1.4; font-weight: 600; text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
